@@ -1,0 +1,55 @@
+.sql
+{
+    font-size: 20px;
+    background-color: azure;
+    width: 70%;
+    padding: 20px;
+    margin-left: 15%;
+    border: solid 4px;
+    border-radius: 25px;
+}
+.sql:hover
+{
+    background-color: lightblue;
+}
+.dataScience
+{
+    width: 70%;
+    font-size:20px;
+    background-color:lightgrey;
+    padding: 20px;
+    margin-left: 15%;
+    border-radius: 25px;
+    border: solid 4px;
+}
+.dataScience:hover
+{
+    background-color: lightblue;
+}
+.sources
+{
+    font-size: 20px;
+    background-color: lightcyan;
+    width: 70%;
+    padding: 20px;
+    margin-left: 15%;
+    border: solid 4px;
+    border-radius: 25px;
+}
+.sources:hover
+{
+    background-color: lightblue;
+}
+body
+{
+    background-color: lightslategrey;
+}
+#title
+{
+    text-align: center;
+    text-shadow: 1px 2px white;
+}
+#title:hover
+{
+    text-decoration: underline;
+}
